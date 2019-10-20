@@ -1,6 +1,6 @@
 {
   "name": "wx-cornerstone-tools",
-  "version": "2.4.0",
+  "version": "2.4.0.1",
   "description": "Medical imaging tools for the Cornerstone library",
   "main": "./dist/cornerstoneTools.min.js",
   "keywords": [
